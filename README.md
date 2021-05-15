@@ -2,7 +2,7 @@
 
 Tema escolhido brinquedos, para todos que escutam "Vem brincar comigo" quando codificam. Um dia vão entender porque tantas aulas e lições e tantos "Agora não filho(a), estou estudando".
 
-!(img/toyflix.png)
+![toyflix](img/toyflix.png)
 
 Adicionado ao projeto biblioteca **fancybox**.
 Editado o logo para distorção. 
